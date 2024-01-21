@@ -1,4 +1,6 @@
-[![MasterHead](https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=740&t=st=1705420055~exp=1705420655~hmac=063299dc63633e454da38a1c6a557c1b5e3a2e184a50674084df2a6a73748fec)](https://Amitkumarkoli.io)
+
+![github-header-image](https://github.com/Amitkumarkoli/Amitkumarkoli/assets/113758099/9db66e31-b204-4a3d-a497-e6c2814bd7d8)
+
 <h1 align="center">Hi 👋, I'm Amit Kumar Koli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
