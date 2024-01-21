@@ -1,5 +1,5 @@
 
-![github-header-image](https://github.com/Amitkumarkoli/Amitkumarkoli/assets/113758099/9db66e31-b204-4a3d-a497-e6c2814bd7d8)
+![github-header-image](https://github.com/Amitkumarkoli/Amitkumarkoli/assets/113758099/c51c4eb2-da3b-4c94-88b8-7b986b3d84d0)
 
 <h1 align="center">Hi 👋, I'm Amit Kumar Koli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
