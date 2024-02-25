@@ -6,8 +6,6 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpwanZpNjRveDhmd3M5cWI1bTN4MzE1bjlvcnBsYjZtdHpqNml3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif">
 
-- 🔭 I’m currently working on **House Harbor**
-
 - 🌱 I’m currently learning **flutter**
 
 - 📫 How to reach me **akdev523@gmail.com**
