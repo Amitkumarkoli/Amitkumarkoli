@@ -1,8 +1,9 @@
-
-![github-header-image](https://github.com/Amitkumarkoli/Amitkumarkoli/assets/113758099/c51c4eb2-da3b-4c94-88b8-7b986b3d84d0)
+![github-header-image (3)](https://github.com/Amitkumarkoli/Amitkumarkoli/assets/113758099/8e98cab3-d26c-4d8f-86ff-f19404ad5710)
 
 <h1 align="center">Hi 👋, I'm Amit Kumar Koli</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkumarkoli&label=Profile%20views&color=0e75b6&style=flat" alt="amitkumarkoli" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpwanZpNjRveDhmd3M5cWI1bTN4MzE1bjlvcnBsYjZtdHpqNml3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif">
 
