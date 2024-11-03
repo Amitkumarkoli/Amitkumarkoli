@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **A mobile application for android**
 
-- 🌱 I’m currently learning **flutter with firebase**
+- 🌱 I’m currently learning **node.js and mongodb**
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
