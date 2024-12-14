@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **akdev523@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **Code so clean, even my mom approves.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
