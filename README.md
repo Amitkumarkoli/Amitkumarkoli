@@ -7,9 +7,9 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpwanZpNjRveDhmd3M5cWI1bTN4MzE1bjlvcnBsYjZtdHpqNml3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif">
 
-- 🔭 I’m currently working on **A mobile application for android**
+- 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **node.js and mongodb**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
