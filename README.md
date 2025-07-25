@@ -42,7 +42,7 @@
 
 ### 🛠️ Tech Stack
 
-#### Mobile & Frontend
+#### 📱 Mobile & Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
@@ -50,15 +50,18 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 </p>
 
-#### Backend & Learning Tools
+#### 🔧 Backend & Learning Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cpp&logoColor=white" />
 </p>
 
-#### Tools & Version Control
+#### ⚙️ Tools & Version Control
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
@@ -69,9 +72,16 @@
 
 ### 🚀 Featured Projects
 
-- **NGO Scout** – A Flutter app connecting people to NGOs worldwide  
-- **CropDoc** – Detect crop diseases using AI (learning in progress)  
+> *Some projects are under development — u can check out the repos*
+
+- **NGO Scout** – A Flutter app connecting people to NGOs worldwide *(work in progress)*  
+- **CropDoc** – Detect crop diseases using AI *(learning in progress)*  
 - **Study Buddy** – Helping students stay productive & mentally healthy  
+- **EduBridge** – Career support and upskilling platform *(backend is in progress)*  
+- **House Harbour** – A rental and property discovery app *(work in progress)*  
+
+> 💡 *More exciting projects are underway — stay connected for updates!*
+ 
 
 ---
 
@@ -81,15 +91,15 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=amitkumarkoli&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=amitkumarkoli&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=amitkumarkoli&theme=tokyonight" alt="streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=amitkumarkoli&theme=tokyonight" alt="GitHub streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumarkoli&layout=compact&theme=tokyonight&langs_count=8" alt="top langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumarkoli&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages" />
       </td>
     </tr>
   </table>
@@ -98,15 +108,27 @@
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitkumarkoli&theme=onestar&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amitkumarkoli&theme=onestar&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Let's Connect
+
 <p align="center">
   <a href="mailto:akdev523@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/amit-kumar-koli-12441224a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Ak_koli01" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+### 🌟 Bonus: A Quote I Code By
+
+> “First, solve the problem. Then, write the code.” — John Johnson
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
 </p>
